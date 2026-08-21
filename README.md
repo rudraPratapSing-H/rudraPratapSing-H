@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Rudra+Pratap+Singh+👾;Transmitting+from+Indore,+India;Reverse-engineering+earthly+APIs;Building+high-agency+software" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Rudra+Pratap+Singh;Transmitting+from+Indore+India;Reverse-engineering+earthly+APIs;Building+high-agency+software" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rps207"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn"></a>
-  <a href="mailto:rudrajabalpur1112@gmail.com"><img src="https://img.shields.io/badge/Comms-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rps207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rudrajabalpur1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -15,11 +17,13 @@ I hate friction. If something in the real world is broken, I build a tool to byp
 
 ### 👽 Extraterrestrial Artifacts 
 
-* **The Containment Chamber:** I wanted to know how LeetCode securely sandboxes sketchy code, so I built a distributed Remote Code Execution (RCE) engine from scratch. It currently isolates and runs code for 83 active users without blowing up the server.
+* [![RCE](https://img.icons8.com/fluency/24/console.png)](https://github.com/rudraPratapSing-H/scratchCode) **[The Containment Chamber (RCE)](https://github.com/rudraPratapSing-H/scratchCode):** I wanted to know how LeetCode securely sandboxes sketchy code, so I built a distributed Remote Code Execution engine from scratch. It currently isolates and runs code for 83 active users without blowing up the server.
 
-* **Brain Upload (RAG):** Ripped apart the mechanics behind NotebookLM to build my own Enterprise-Grade RAG pipeline. It digests 500+ pages of dense earthly documentation with a sub-300ms retrieval latency.
+* [![RAG](https://img.icons8.com/fluency/24/artificial-intelligence.png)](https://github.com/rudraPratapSing-H/AdviceWizz) **[Brain Upload (RAG)](https://github.com/rudraPratapSing-H/AdviceWizz):** Ripped apart the mechanics behind NotebookLM to build my own Enterprise-Grade RAG pipeline. It digests 500+ pages of dense earthly documentation with a sub-300ms retrieval latency.
 
-* **Abducting Users:** When the campus Google Developer Group struggled with recruitment, sending boring emails wasn't cutting it. I built a 2D browser game with an autonomous AI evasion engine. It gamified the whole registration process and drove a **2.3x YoY increase** in sign-ups. (I also built a custom cheat-detection platform to secure our quizzes from rogue agents).
+* [![Exam](https://img.icons8.com/fluency/24/shield.png)](https://github.com/rudraPratapSing-H/Test-GDG-IETDAVV-) **[Secure Testing Matrix (GDG Exam)](https://github.com/rudraPratapSing-H/Test-GDG-IETDAVV-):** Built a custom cheating-detection platform to secure the campus Google Developer Group online quizzes from rogue agents.
+
+* [![AmongUs](https://img.icons8.com/color/24/among-us.png)](https://github.com/rudraPratapSing-H/amongusChase) **[Abducting Users (Among Us Chase)](https://github.com/rudraPratapSing-H/amongusChase):** When the GDG struggled with recruitment, sending boring emails wasn't cutting it. I built a 2D browser game with an autonomous AI evasion engine. It gamified the whole registration process and drove a **2.3x YoY increase** in sign-ups.
 
 ### 🧪 Ship's Telemetry 
 
